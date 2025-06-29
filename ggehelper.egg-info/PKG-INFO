@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ggehelper
+Version: 0.2
+Summary: Just a simple helper for GGE
+Author: Celicular
+License: MIT
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: author
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
